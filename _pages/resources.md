@@ -33,4 +33,3 @@ This page contains resources on Theoretical Computer Science that I have encount
 * [On the Sensitivity Conjecture](https://terrytao.wordpress.com/2019/07/26/twisted-convolution-and-the-sensitivity-conjecture/) - Terence Tao
 * [Dvir’s proof of the finite field Kakeya conjecture](https://terrytao.wordpress.com/2008/03/24/dvirs-proof-of-the-finite-field-kakeya-conjecture/) - Terence Tao
 
-Does the math work? $e^x + 2^n$ $$\sum_{i=1}^n i^2+i+1$$
