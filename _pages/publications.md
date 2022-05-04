@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* [Improved lower bound, and proof barrier, for constant depth algebraic circuits
+](https://bhargavcs.github.io/files/lst-limitations.pdf)
