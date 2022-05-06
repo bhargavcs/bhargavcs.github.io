@@ -12,7 +12,7 @@ This page contains resources on Theoretical Computer Science that I have encount
 * [Quantum Computing since Democritus](https://www.scottaaronson.com/democritus/) - Scott Aaronson
 * [Nature of Computation](http://nature-of-computation.org/) - Cristopher Moore and Stephan Mertens
 * [Quantum Computer Science](https://www.cambridge.org/core/books/quantum-computer-science/66462590D10C8010017CF1D7C45708D7) - David Mermin
-* [Extremal Combinatorics](http://www.thi.informatik.uni-frankfurt.de/~jukna/EC_Book_2nd/draft.pdf) - Stasys Jukna
+* [Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Stasys Jukna
 * [Introduction to Computational Learning Theory](https://mitpress.mit.edu/books/introduction-computational-learning-theory) - Michael Kearns and Umesh Vazirani
 
 # Courses and Lecture Notes
