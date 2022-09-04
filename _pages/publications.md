@@ -9,4 +9,4 @@ author_profile: true
 ](https://bhargavcs.github.io/files/bhargav-dutta-saxena-lst-limits-2022.pdf)  
   - with Sagnik Dutta and [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/)  
   - [47th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2022](https://doi.org/10.4230/LIPIcs.MFCS.2022.18)
-  - Awarded the Best Student Paper
+  - Awarded Best Student Paper
