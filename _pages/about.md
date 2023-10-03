@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a third year PhD student in [Computer Science](https://www.cse.iitk.ac.in/) at [IIT Kanpur](https://www.iitk.ac.in/).
+Hi, I am a fifth year PhD student in [Computer Science](https://www.cse.iitk.ac.in/) at [IIT Kanpur](https://www.iitk.ac.in/).
 
 I am very fortunate to be advised by [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/). Prior to this I was at [Chennai Mathematical Institute](https://www.cmi.ac.in/) where I was advised by [Partha Mukhopadhyay](https://www.cmi.ac.in/~partham/)
 
