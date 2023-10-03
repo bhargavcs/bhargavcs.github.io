@@ -84,11 +84,11 @@ author:
   avatar           : "profile-pic1.jpg"
   bio              : "Graduate student in Theoretical Computer Science"
   location         : "Kanpur, India"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Indian Institute of Technology Kanpur"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "bhargav@cse.iitk.ac.in"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6920-4998"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "csbhargav"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
