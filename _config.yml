@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Bhargav C S"
   avatar           : "profile-pic1.jpg"
   bio              : "Graduate student in Theoretical Computer Science"
-  location         : "Kanpur, India"
+  location         : 
   employer         : "Indian Institute of Technology Kanpur"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/csbhargav"
   vine             :
   weibo            :
   xing             :
