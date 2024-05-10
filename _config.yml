@@ -87,6 +87,7 @@ author:
   employer         : "IIT Kanpur"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
+  dblp             : "https://dblp.org/pid/328/1688.html"
   email            : "bhargav@cse.iitk.ac.in"
   researchgate     :
   uri              :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/csbhargav"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
