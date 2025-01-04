@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Bhargav C S"
-  avatar           : "profile-pic1.jpg"
+  avatar           : "profile-pic-kash.jpg"
   bio              : "Graduate student in Theoretical Computer Science"
   location         : Indian Institute of Technology Kanpur
-  employer         : "IIT Kanpur"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
   dblp             : "https://dblp.org/pid/328/1688.html"
