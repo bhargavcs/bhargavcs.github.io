@@ -16,3 +16,9 @@ I am very fortunate to be advised by [Nitin Saxena](https://www.cse.iitk.ac.in/u
 Research Interests
 ======
 I am broadly interested in Theoretical Computer Science and in particular Computational Complexity.
+
+
+Contact
+======
+Gmail: bcs1618 (preferred)
+IITK: bhargav@cse.iitk.ac.in 
