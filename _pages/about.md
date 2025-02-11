@@ -20,5 +20,5 @@ I am broadly interested in Theoretical Computer Science and in particular Comput
 
 Contact
 ======
-Gmail: bcs1618 (preferred)
-IITK: bhargav@cse.iitk.ac.in 
+- Gmail: bcs1618 (preferred)
+- IITK: bhargav@cse.iitk.ac.in 
