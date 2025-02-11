@@ -19,3 +19,11 @@ author_profile: true
   - with Sagnik Dutta and [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/)
   - ACM Transactions on Computation Theory [TOCT 2024](https://dl.acm.org/doi/10.1145/3689957)
   - Preliminary version - [MFCS 2022](https://doi.org/10.4230/LIPIcs.MFCS.2022.18) (Awarded Best Student Paper)
+
+
+Manuscripts
+======
+
+* Monotone Bounded-Depth Complexity of Homomorphism Polynomials
+  - with [Shiteng Chen](https://scholar.google.com/citations?user=BtefGJgAAAAJ&hl=en), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/algorithmen-komplexitaetstheorie/team/prof-dr-radu-curticapean/index.html) and [Prateek Dwivedi](https://www.prateekdwivedi.in/)
+  - Under submission
