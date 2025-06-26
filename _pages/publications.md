@@ -5,25 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Learning the coefficients: A presentable version of border complexity and applications to circuit factoring ([PDF](https://www.cse.iitk.ac.in/users/nitin/papers/PresentableVNP.pdf))
-  - with [Prateek Dwivedi](https://www.prateekdwivedi.in/) and [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/)
+My publication list can also be found at [Google Scholar](https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/328/1688.html).
+
+* Monotone Bounded-Depth Complexity of Homomorphism Polynomials ([arXiv](https://arxiv.org/abs/2505.22894), [PDF](https://bhargavcs.github.io/files/monotone-hompoly.pdf))
+  - with Shiteng Chen, Radu Curticapean and Prateek Dwivedi
+  - to appear in [MFCS 2025](https://mfcs2025.mimuw.edu.pl/#accepted)
+
+* Learning the coefficients: A presentable version of border complexity and applications to circuit factoring ([PDF](https://bhargavcs.github.io/files/learning-coefficients.pdf))
+  - with Prateek Dwivedi and Nitin Saxena
   - [STOC 2024](https://dl.acm.org/doi/abs/10.1145/3618260.3649743)
 
-* [Lower bounds for the sum of small-size algebraic branching programs](https://bhargavcs.github.io/files/sumRO.pdf)
-  - with [Prateek Dwivedi](https://www.prateekdwivedi.in/) and [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/)
-  - Invited to the special issue of Theoretical Computer Science
-  - Preliminary version - [TAMC 2024](https://doi.org/10.1007/978-981-97-2340-9\_30)
+* Lower bounds for the sum of small-size algebraic branching programs ([PDF](https://bhargavcs.github.io/files/sum-abp-lb.pdf))
+  - with Prateek Dwivedi and Nitin Saxena
+  - [TCS 2025](https://doi.org/10.1016/j.tcs.2025.115214) (invited special issue of [TAMC 2024](https://doi.org/10.1007/978-981-97-2340-9\_30))
     
-* [Improved lower bound, and proof barrier, for constant depth algebraic circuits
-](https://bhargavcs.github.io/files/bhargav-dutta-saxena-lst-limits-2022.pdf)  
-  - with Sagnik Dutta and [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/)
-  - ACM Transactions on Computation Theory [TOCT 2024](https://dl.acm.org/doi/10.1145/3689957)
-  - Preliminary version - [MFCS 2022](https://doi.org/10.4230/LIPIcs.MFCS.2022.18) (Awarded Best Student Paper)
+* Improved lower bound, and proof barrier, for constant depth algebraic circuits
+([PDF](https://bhargavcs.github.io/files/lst-limitations.pdf))
+  - with Sagnik Dutta and Nitin Saxena
+  - [TOCT 2024](https://dl.acm.org/doi/10.1145/3689957) (preliminary version - [MFCS 2022](https://doi.org/10.4230/LIPIcs.MFCS.2022.18))
+  - awarded _Best Student Paper_ at MFCS 2022
 
 
 Manuscripts
 ======
 
-* Monotone Bounded-Depth Complexity of Homomorphism Polynomials
-  - with [Shiteng Chen](https://scholar.google.com/citations?user=BtefGJgAAAAJ&hl=en), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/algorithmen-komplexitaetstheorie/team/prof-dr-radu-curticapean/index.html) and [Prateek Dwivedi](https://www.prateekdwivedi.in/)
-  - Under submission
+* A primer on the closure of algebraic complexity classes under factoring ([arXiv](https://arxiv.org/abs/2506.19604), [ECCC](https://eccc.weizmann.ac.il/report/2025/083/), [PDF](https://bhargavcs.github.io/files/factorization-survey.pdf))
+  - with Prateek Dwivedi and Nitin Saxena
+  - under review in the special issue of the workshop [RTCA'23](https://rtca2023.github.io/), Paris

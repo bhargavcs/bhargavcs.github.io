@@ -83,12 +83,12 @@ author:
   name             : "Bhargav C S"
   avatar           : "profile-pic-kash.jpg"
   bio              : "Graduate student in Theoretical Computer Science"
-  location         : Indian Institute of Technology Kanpur
+  location         : "IIT Kanpur"
   employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
-  dblp             : "https://dblp.org/pid/328/1688.html"
-  email            : "bcs1618@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
+  dblp             : #"https://dblp.org/pid/328/1688.html"
+  email            : "bhargav@cse.iitk.ac.in"
   researchgate     :
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6920-4998"
+  orcid            : #"https://orcid.org/0000-0002-6920-4998"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
