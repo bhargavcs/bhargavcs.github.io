@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bhargav C S"
 title_separator          : "-"
 name                     : &name "Bhargav C S"
-description              : &description "PhD. student at IIT Kanpur"
+description              : &description "Postdoctoral fellow at the University of Regensburg"
 url                      : https://bhargavcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhargavcs/bhargavcs.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bhargav C S"
   avatar           : "profile-pic-kash.jpg"
-  bio              : "Graduate student in Theoretical Computer Science"
-  location         : "IIT Kanpur"
+  bio              : "Postdoctoral fellow in Theoretical Computer Science"
+  location         : "University of Regensburg"
   employer         : 
   pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?user=y1RkkjMAAAAJ&hl=en"
   dblp             : #"https://dblp.org/pid/328/1688.html"
-  email            : "bhargav@cse.iitk.ac.in"
+  email            : "bhargav.cs@ur.de"
   researchgate     :
   uri              :
   bitbucket        :
