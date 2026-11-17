@@ -1,0 +1,42 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+.profile-photo { width: 160px; height: 160px; object-fit: cover; border-radius: 50%; margin: 0 0 1rem; }
+
+// Research already has a curated list of papers and theses.
+body[data-slug="research/index"] .page-listing {
+  display: none;
+}
+
+.email-contact {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.copy-email {
+  font: inherit;
+  color: var(--secondary);
+  background: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--secondary);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+}
+
+.copy-email-status {
+  color: var(--darkgray);
+  font-size: 0.9em;
+}
