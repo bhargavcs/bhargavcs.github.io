@@ -10,6 +10,10 @@ author_profile: true
 Manuscripts
 ======
 
+* Multivariate Resultants: Complexity and Applications to Real Feasibility ([Zenodo](https://doi.org/10.5281/zenodo.23218608), [PDF](/files/resultants-and-etr.pdf))
+  - with Radu Curticapean, Gorav Jindal, and Himanshu Shukla
+  - under review
+
 * A primer on the closure of algebraic complexity classes under factoring ([arXiv](https://arxiv.org/abs/2506.19604), [ECCC](https://eccc.weizmann.ac.il/report/2025/083/), [PDF](https://bhargavcs.github.io/files/factorization-survey.pdf))
   - with Prateek Dwivedi and Nitin Saxena
   - under review in the special issue of the workshop [RTCA'23](https://rtca2023.github.io/), Paris
